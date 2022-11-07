@@ -14,6 +14,7 @@
 4. Em seguida, editei o readme do projeto com tags do _Markdown_ no VS Code. Finalizado esta etapa, enviei o projeto no repositório remoto com os seguintes comandos:
 - Adicionar as alterações com o comando `git add .`
 - Adicionar um _commit_ com o comando `git commit -m "Editando o arquivo do repositório local e enviando ao remoto"`
+- Enviando para nuvem com o git push `git push origin main .`
 
 <p>O legal de utilizar o Git Bash, condiz com a facilidade de inserir comandos a um terminal extendido e otimizando do uso do Git no PC.</p>
 
